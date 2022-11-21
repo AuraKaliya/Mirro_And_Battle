@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/characterImage">
+        <file>0_head.png</file>
+        <file>1_head.png</file>
+        <file>卡罗_lh.png</file>
+        <file>丽娜思_lh.png</file>
+        <file>莉莉安·缄默_lh.png</file>
+        <file>穆雷尔_lh.png</file>
+        <file>胭脂_lh.png</file>
+    </qresource>
+    <qresource prefix="/backgroundImage">
+        <file>background_1.png</file>
+        <file>background_2.png</file>
+        <file>background_3.png</file>
+        <file>background_4.png</file>
+        <file>background_5.png</file>
+        <file>background_0.png</file>
+    </qresource>
+    <qresource prefix="/other">
+        <file>wait.gif</file>
+        <file>waitinglose.png</file>
+        <file>waitingsuccess.png</file>
+        <file>bond1.png</file>
+        <file>widgetIcon.ico</file>
+    </qresource>
+</RCC>
